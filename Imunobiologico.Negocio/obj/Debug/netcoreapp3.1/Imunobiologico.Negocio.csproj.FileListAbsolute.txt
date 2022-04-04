@@ -1,0 +1,60 @@
+C:\Users\Thomas\Downloads\Imunobiologico.Api\Imunobiologico.Api\Imunobiologico.Negocio\bin\Debug\netcoreapp3.1\Imunobiologico.Negocio.deps.json
+C:\Users\Thomas\Downloads\Imunobiologico.Api\Imunobiologico.Api\Imunobiologico.Negocio\bin\Debug\netcoreapp3.1\Imunobiologico.Negocio.dll
+C:\Users\Thomas\Downloads\Imunobiologico.Api\Imunobiologico.Api\Imunobiologico.Negocio\bin\Debug\netcoreapp3.1\Imunobiologico.Negocio.pdb
+C:\Users\Thomas\Downloads\Imunobiologico.Api\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas\Downloads\Imunobiologico.Api\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.AssemblyInfoInputs.cache
+C:\Users\Thomas\Downloads\Imunobiologico.Api\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.AssemblyInfo.cs
+C:\Users\Thomas\Downloads\Imunobiologico.Api\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Downloads\Imunobiologico.Api\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.dll
+C:\Users\Thomas\Downloads\Imunobiologico.Api\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.pdb
+C:\Users\Thomas\Downloads\Imunobiologico.Api\Imunobiologico.Api\Imunobiologico.Negocio\bin\Debug\netcoreapp3.1\Imunobiologico.EntityFramework.dll
+C:\Users\Thomas\Downloads\Imunobiologico.Api\Imunobiologico.Api\Imunobiologico.Negocio\bin\Debug\netcoreapp3.1\Imunobiologico.Repositorio.dll
+C:\Users\Thomas\Downloads\Imunobiologico.Api\Imunobiologico.Api\Imunobiologico.Negocio\bin\Debug\netcoreapp3.1\Imunobiologico.EntityFramework.pdb
+C:\Users\Thomas\Downloads\Imunobiologico.Api\Imunobiologico.Api\Imunobiologico.Negocio\bin\Debug\netcoreapp3.1\Imunobiologico.Repositorio.pdb
+C:\Users\Thomas\Downloads\Imunobiologico.Api\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.csproj.AssemblyReference.cache
+C:\Users\Thomas\Downloads\Imunobiologico.Api\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.csproj.CopyComplete
+C:\Users\SicaSico\source\repos\Imunobiologico.Api\Imunobiologico.Negocio\bin\Debug\netcoreapp3.1\Imunobiologico.Negocio.deps.json
+C:\Users\SicaSico\source\repos\Imunobiologico.Api\Imunobiologico.Negocio\bin\Debug\netcoreapp3.1\Imunobiologico.Negocio.dll
+C:\Users\SicaSico\source\repos\Imunobiologico.Api\Imunobiologico.Negocio\bin\Debug\netcoreapp3.1\Imunobiologico.Negocio.pdb
+C:\Users\SicaSico\source\repos\Imunobiologico.Api\Imunobiologico.Negocio\bin\Debug\netcoreapp3.1\Imunobiologico.EntityFramework.dll
+C:\Users\SicaSico\source\repos\Imunobiologico.Api\Imunobiologico.Negocio\bin\Debug\netcoreapp3.1\Imunobiologico.Repositorio.dll
+C:\Users\SicaSico\source\repos\Imunobiologico.Api\Imunobiologico.Negocio\bin\Debug\netcoreapp3.1\Imunobiologico.EntityFramework.pdb
+C:\Users\SicaSico\source\repos\Imunobiologico.Api\Imunobiologico.Negocio\bin\Debug\netcoreapp3.1\Imunobiologico.Repositorio.pdb
+C:\Users\SicaSico\source\repos\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.csproj.AssemblyReference.cache
+C:\Users\SicaSico\source\repos\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SicaSico\source\repos\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.AssemblyInfoInputs.cache
+C:\Users\SicaSico\source\repos\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.AssemblyInfo.cs
+C:\Users\SicaSico\source\repos\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\SicaSico\source\repos\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.csproj.CopyComplete
+C:\Users\SicaSico\source\repos\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.dll
+C:\Users\SicaSico\source\repos\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.pdb
+C:\Users\SicaSico\Desktop\Teste\Prodesp\Imunobiologico.Api\Imunobiologico.Negocio\bin\Debug\netcoreapp3.1\Imunobiologico.Negocio.deps.json
+C:\Users\SicaSico\Desktop\Teste\Prodesp\Imunobiologico.Api\Imunobiologico.Negocio\bin\Debug\netcoreapp3.1\Imunobiologico.Negocio.dll
+C:\Users\SicaSico\Desktop\Teste\Prodesp\Imunobiologico.Api\Imunobiologico.Negocio\bin\Debug\netcoreapp3.1\Imunobiologico.Negocio.pdb
+C:\Users\SicaSico\Desktop\Teste\Prodesp\Imunobiologico.Api\Imunobiologico.Negocio\bin\Debug\netcoreapp3.1\Imunobiologico.EntityFramework.dll
+C:\Users\SicaSico\Desktop\Teste\Prodesp\Imunobiologico.Api\Imunobiologico.Negocio\bin\Debug\netcoreapp3.1\Imunobiologico.Repositorio.dll
+C:\Users\SicaSico\Desktop\Teste\Prodesp\Imunobiologico.Api\Imunobiologico.Negocio\bin\Debug\netcoreapp3.1\Imunobiologico.EntityFramework.pdb
+C:\Users\SicaSico\Desktop\Teste\Prodesp\Imunobiologico.Api\Imunobiologico.Negocio\bin\Debug\netcoreapp3.1\Imunobiologico.Repositorio.pdb
+C:\Users\SicaSico\Desktop\Teste\Prodesp\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.csproj.AssemblyReference.cache
+C:\Users\SicaSico\Desktop\Teste\Prodesp\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SicaSico\Desktop\Teste\Prodesp\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.AssemblyInfoInputs.cache
+C:\Users\SicaSico\Desktop\Teste\Prodesp\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.AssemblyInfo.cs
+C:\Users\SicaSico\Desktop\Teste\Prodesp\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\SicaSico\Desktop\Teste\Prodesp\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.csproj.CopyComplete
+C:\Users\SicaSico\Desktop\Teste\Prodesp\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.dll
+C:\Users\SicaSico\Desktop\Teste\Prodesp\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.pdb
+C:\Users\Thomas\Downloads\Imunobiologico.Api (1)\Imunobiologico.Api\Imunobiologico.Negocio\bin\Debug\netcoreapp3.1\Imunobiologico.Negocio.deps.json
+C:\Users\Thomas\Downloads\Imunobiologico.Api (1)\Imunobiologico.Api\Imunobiologico.Negocio\bin\Debug\netcoreapp3.1\Imunobiologico.Negocio.dll
+C:\Users\Thomas\Downloads\Imunobiologico.Api (1)\Imunobiologico.Api\Imunobiologico.Negocio\bin\Debug\netcoreapp3.1\Imunobiologico.Negocio.pdb
+C:\Users\Thomas\Downloads\Imunobiologico.Api (1)\Imunobiologico.Api\Imunobiologico.Negocio\bin\Debug\netcoreapp3.1\Imunobiologico.EntityFramework.dll
+C:\Users\Thomas\Downloads\Imunobiologico.Api (1)\Imunobiologico.Api\Imunobiologico.Negocio\bin\Debug\netcoreapp3.1\Imunobiologico.Repositorio.dll
+C:\Users\Thomas\Downloads\Imunobiologico.Api (1)\Imunobiologico.Api\Imunobiologico.Negocio\bin\Debug\netcoreapp3.1\Imunobiologico.EntityFramework.pdb
+C:\Users\Thomas\Downloads\Imunobiologico.Api (1)\Imunobiologico.Api\Imunobiologico.Negocio\bin\Debug\netcoreapp3.1\Imunobiologico.Repositorio.pdb
+C:\Users\Thomas\Downloads\Imunobiologico.Api (1)\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.csproj.AssemblyReference.cache
+C:\Users\Thomas\Downloads\Imunobiologico.Api (1)\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas\Downloads\Imunobiologico.Api (1)\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.AssemblyInfoInputs.cache
+C:\Users\Thomas\Downloads\Imunobiologico.Api (1)\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.AssemblyInfo.cs
+C:\Users\Thomas\Downloads\Imunobiologico.Api (1)\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Downloads\Imunobiologico.Api (1)\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.csproj.CopyComplete
+C:\Users\Thomas\Downloads\Imunobiologico.Api (1)\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.dll
+C:\Users\Thomas\Downloads\Imunobiologico.Api (1)\Imunobiologico.Api\Imunobiologico.Negocio\obj\Debug\netcoreapp3.1\Imunobiologico.Negocio.pdb

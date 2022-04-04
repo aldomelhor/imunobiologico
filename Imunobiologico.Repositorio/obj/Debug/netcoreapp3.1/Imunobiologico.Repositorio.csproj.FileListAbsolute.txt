@@ -1,0 +1,52 @@
+C:\Users\Thomas\Downloads\Imunobiologico.Api\Imunobiologico.Api\Imunobiologico.Repositorio\bin\Debug\netcoreapp3.1\Imunobiologico.Repositorio.deps.json
+C:\Users\Thomas\Downloads\Imunobiologico.Api\Imunobiologico.Api\Imunobiologico.Repositorio\bin\Debug\netcoreapp3.1\Imunobiologico.Repositorio.dll
+C:\Users\Thomas\Downloads\Imunobiologico.Api\Imunobiologico.Api\Imunobiologico.Repositorio\bin\Debug\netcoreapp3.1\Imunobiologico.Repositorio.pdb
+C:\Users\Thomas\Downloads\Imunobiologico.Api\Imunobiologico.Api\Imunobiologico.Repositorio\bin\Debug\netcoreapp3.1\Imunobiologico.EntityFramework.dll
+C:\Users\Thomas\Downloads\Imunobiologico.Api\Imunobiologico.Api\Imunobiologico.Repositorio\bin\Debug\netcoreapp3.1\Imunobiologico.EntityFramework.pdb
+C:\Users\Thomas\Downloads\Imunobiologico.Api\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.csproj.AssemblyReference.cache
+C:\Users\Thomas\Downloads\Imunobiologico.Api\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas\Downloads\Imunobiologico.Api\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.AssemblyInfoInputs.cache
+C:\Users\Thomas\Downloads\Imunobiologico.Api\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.AssemblyInfo.cs
+C:\Users\Thomas\Downloads\Imunobiologico.Api\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Downloads\Imunobiologico.Api\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.csproj.CopyComplete
+C:\Users\Thomas\Downloads\Imunobiologico.Api\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.dll
+C:\Users\Thomas\Downloads\Imunobiologico.Api\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.pdb
+C:\Users\SicaSico\source\repos\Imunobiologico.Api\Imunobiologico.Repositorio\bin\Debug\netcoreapp3.1\Imunobiologico.Repositorio.deps.json
+C:\Users\SicaSico\source\repos\Imunobiologico.Api\Imunobiologico.Repositorio\bin\Debug\netcoreapp3.1\Imunobiologico.Repositorio.dll
+C:\Users\SicaSico\source\repos\Imunobiologico.Api\Imunobiologico.Repositorio\bin\Debug\netcoreapp3.1\Imunobiologico.Repositorio.pdb
+C:\Users\SicaSico\source\repos\Imunobiologico.Api\Imunobiologico.Repositorio\bin\Debug\netcoreapp3.1\Imunobiologico.EntityFramework.dll
+C:\Users\SicaSico\source\repos\Imunobiologico.Api\Imunobiologico.Repositorio\bin\Debug\netcoreapp3.1\Imunobiologico.EntityFramework.pdb
+C:\Users\SicaSico\source\repos\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.csproj.AssemblyReference.cache
+C:\Users\SicaSico\source\repos\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SicaSico\source\repos\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.AssemblyInfoInputs.cache
+C:\Users\SicaSico\source\repos\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.AssemblyInfo.cs
+C:\Users\SicaSico\source\repos\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\SicaSico\source\repos\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.csproj.CopyComplete
+C:\Users\SicaSico\source\repos\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.dll
+C:\Users\SicaSico\source\repos\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.pdb
+C:\Users\SicaSico\Desktop\Teste\Prodesp\Imunobiologico.Api\Imunobiologico.Repositorio\bin\Debug\netcoreapp3.1\Imunobiologico.Repositorio.deps.json
+C:\Users\SicaSico\Desktop\Teste\Prodesp\Imunobiologico.Api\Imunobiologico.Repositorio\bin\Debug\netcoreapp3.1\Imunobiologico.Repositorio.dll
+C:\Users\SicaSico\Desktop\Teste\Prodesp\Imunobiologico.Api\Imunobiologico.Repositorio\bin\Debug\netcoreapp3.1\Imunobiologico.Repositorio.pdb
+C:\Users\SicaSico\Desktop\Teste\Prodesp\Imunobiologico.Api\Imunobiologico.Repositorio\bin\Debug\netcoreapp3.1\Imunobiologico.EntityFramework.dll
+C:\Users\SicaSico\Desktop\Teste\Prodesp\Imunobiologico.Api\Imunobiologico.Repositorio\bin\Debug\netcoreapp3.1\Imunobiologico.EntityFramework.pdb
+C:\Users\SicaSico\Desktop\Teste\Prodesp\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.csproj.AssemblyReference.cache
+C:\Users\SicaSico\Desktop\Teste\Prodesp\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SicaSico\Desktop\Teste\Prodesp\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.AssemblyInfoInputs.cache
+C:\Users\SicaSico\Desktop\Teste\Prodesp\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.AssemblyInfo.cs
+C:\Users\SicaSico\Desktop\Teste\Prodesp\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\SicaSico\Desktop\Teste\Prodesp\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.csproj.CopyComplete
+C:\Users\SicaSico\Desktop\Teste\Prodesp\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.dll
+C:\Users\SicaSico\Desktop\Teste\Prodesp\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.pdb
+C:\Users\Thomas\Downloads\Imunobiologico.Api (1)\Imunobiologico.Api\Imunobiologico.Repositorio\bin\Debug\netcoreapp3.1\Imunobiologico.Repositorio.deps.json
+C:\Users\Thomas\Downloads\Imunobiologico.Api (1)\Imunobiologico.Api\Imunobiologico.Repositorio\bin\Debug\netcoreapp3.1\Imunobiologico.Repositorio.dll
+C:\Users\Thomas\Downloads\Imunobiologico.Api (1)\Imunobiologico.Api\Imunobiologico.Repositorio\bin\Debug\netcoreapp3.1\Imunobiologico.Repositorio.pdb
+C:\Users\Thomas\Downloads\Imunobiologico.Api (1)\Imunobiologico.Api\Imunobiologico.Repositorio\bin\Debug\netcoreapp3.1\Imunobiologico.EntityFramework.dll
+C:\Users\Thomas\Downloads\Imunobiologico.Api (1)\Imunobiologico.Api\Imunobiologico.Repositorio\bin\Debug\netcoreapp3.1\Imunobiologico.EntityFramework.pdb
+C:\Users\Thomas\Downloads\Imunobiologico.Api (1)\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.csproj.AssemblyReference.cache
+C:\Users\Thomas\Downloads\Imunobiologico.Api (1)\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas\Downloads\Imunobiologico.Api (1)\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.AssemblyInfoInputs.cache
+C:\Users\Thomas\Downloads\Imunobiologico.Api (1)\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.AssemblyInfo.cs
+C:\Users\Thomas\Downloads\Imunobiologico.Api (1)\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Downloads\Imunobiologico.Api (1)\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.csproj.CopyComplete
+C:\Users\Thomas\Downloads\Imunobiologico.Api (1)\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.dll
+C:\Users\Thomas\Downloads\Imunobiologico.Api (1)\Imunobiologico.Api\Imunobiologico.Repositorio\obj\Debug\netcoreapp3.1\Imunobiologico.Repositorio.pdb
